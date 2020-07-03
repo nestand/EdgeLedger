@@ -1,3 +1,5 @@
 # EdgeLedger
-EdgeLedger Web page
-Complete web page with CSS JS JQuery Fav fully responsive (iphone and ipad as well android)  
+EdgeLedger Template Web page
+Financial Consulting Company
+Complete web page with HTML, CSS(Flex), JS, JQuery, Favicon, and fully responsive design (iphone / ipad / android)
+No content - Just CODE!
